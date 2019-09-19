@@ -1,3 +1,7 @@
+#Simple Frontend Pagination React Typescript
+![](https://media.giphy.com/media/eHFEV2Qaom5UCNau7T/giphy.gif)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
